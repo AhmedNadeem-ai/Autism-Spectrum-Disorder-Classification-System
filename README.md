@@ -142,12 +142,6 @@ ASD-Classification/
 ## How to Run Locally
 
 1. Clone or download this repository.
-2. Open your terminal in the project root directory and install the required dependencies:
-```bash
- pip install -r requirements.txt
-```
-
-1. Clone or download this repository.
 2. Open the project folder in your terminal and install the required dependencies:
 ```bash
 pip install -r requirements.txt

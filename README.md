@@ -1,7 +1,6 @@
 # Autism Spectrum Disorder Classification and Clustering System
 
 A comprehensive machine learning project analyzing and classifying Autism Spectrum Disorder (ASD) traits in children and adolescents (ages 1–18) using both **supervised** and **unsupervised** learning techniques in Python.
-
 ---
 
 ## Dataset Overview
@@ -20,9 +19,6 @@ The dataset used in this project is the [ASD Children Traits Dataset](https://ww
 * **Clinical & Developmental Factors:** Speech delay/language disorder, learning disorders, genetic disorders, global developmental delay, anxiety, and depression
 * **Demographic & Medical History:** Age (years), Sex, and family history of ASD.
 > **Note:** Ethnicity and Neonatal Jaundice are included in the raw dataset but were excluded during feature selection; they are not required inputs for the models as the system was not trained on them.
-
-
-
 ---
 
 ## Data Preprocessing Pipeline
@@ -146,8 +142,9 @@ ASD-Classification/
 
 1. Clone or download this repository.
 2. Open your terminal in the project root directory and install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
+```bash
+ pip install -r requirements.txt
+```
 
 1. Clone or download this repository.
 2. Open the project folder in your terminal and install the required dependencies:
@@ -155,25 +152,20 @@ ASD-Classification/
 pip install -r requirements.txt
 ```
 
-
 3. To view the model training and evaluation process, open **Jupyter Notebook** and run the files sequentially:
 * `data_preprocessing.ipynb`
 * `supervised_models.ipynb`
 * `unsupervised_models.ipynb`
-
 
 4. To launch the interactive ASD Prediction GUI, run the following Streamlit command:
 ```bash
 streamlit run app.py
 ```
 
-
-
 ---
 
 ## Academic Context
 
 This project was developed for the course **AI372 - Machine Learning** at **UMT**.
-
 * **Objective:** To apply both supervised and unsupervised machine learning models taught in class to a real-world disease/disorder detection dataset, comparing model performances and evaluating clustering vs. classification efficacy.
 * **Term:** Fall 2025 — 5th Semester

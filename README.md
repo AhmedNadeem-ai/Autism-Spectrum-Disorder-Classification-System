@@ -4,6 +4,8 @@
 
 A comprehensive machine learning project analyzing and classifying Autism Spectrum Disorder (ASD) traits in children and adolescents (ages 1–18) using both **supervised** and **unsupervised** learning techniques in Python.
 
+📄 **[Read the Full Academic Report (PDF)](<ASD Classification System Report.pdf>)**
+
 ---
 
 ## Dataset Overview

@@ -1,6 +1,7 @@
 # Autism Spectrum Disorder Classification and Clustering System
 
 A comprehensive machine learning project analyzing and classifying Autism Spectrum Disorder (ASD) traits in children and adolescents (ages 1–18) using both **supervised** and **unsupervised** learning techniques in Python.
+
 ---
 
 ## Dataset Overview
